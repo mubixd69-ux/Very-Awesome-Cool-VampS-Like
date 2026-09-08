@@ -1,4 +1,5 @@
 <img width="674" height="380" alt="image" src="https://github.com/user-attachments/assets/0ff2e31b-29a5-4278-bc73-02a0cefc70e6" />
+
 A very survivors-like game
 
 # Try it
