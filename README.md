@@ -1,6 +1,15 @@
-# Very Awesome Cool Roguelike
-This is a demo for a Vampire-Survivors like game
-To play head over to https://mubixd.itch.io/awesome-survivors-like
-This is my first roguelike so don't expect it to be good lol but I did my best (also this is a demo)
-WASD to move, Left click to shoot then try to beat 11 waves with 5 diffrent and relentless enemies!
-Also AI was used only for debugging things I spent a lot of time trying to debug but I couldn't be able to debug it so that's when i use ai
+<img width="674" height="380" alt="image" src="https://github.com/user-attachments/assets/0ff2e31b-29a5-4278-bc73-02a0cefc70e6" />
+A very survivors-like game
+
+# Try it
+Go to https://mubixd.itch.io/awesome-survivors-like
+
+# Controls
+WASD - to move
+Left Click - to fire your gun
+
+# Tools used to build
+Godot!
+
+# Notice
+The game is still in demo I am planning on adding more in the future. If you have suggestions you can send me an email mubixd69@gmail.com
